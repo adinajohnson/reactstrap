@@ -137,6 +137,13 @@
 
 
 
+## [9.1.11](https://github.com/reactstrap/reactstrap/compare/v9.1.10...v9.1.11) (2023-06-05)
+
+
+### Bug Fixes
+
+* **#2662:** remove many instances of default props ([#2752](https://github.com/reactstrap/reactstrap/issues/2752)) ([b7d571c](https://github.com/reactstrap/reactstrap/commit/b7d571c777de6169de01da5cc14f2eb28988071a))
+
 ## [9.1.10](https://github.com/reactstrap/reactstrap/compare/v9.1.9...v9.1.10) (2023-05-13)
 
 
